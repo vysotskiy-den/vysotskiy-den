@@ -39,7 +39,7 @@ TBD
     * Проект: Разработка онлайн-платформы, прогнозирующей овербукинг на рейсы
 * **Проектная школа от ГК ЭкоНива** – <img src="https://img.shields.io/badge/Finalist-lightcoral" alt="Finalist"> (2025)
     * Проект: Определение факторов урожайности с/х культур на основе БД компании
-* **Хакатон AlphaHack от Альфа Банка** – <img src="https://img.shields.io/badge/Finalist-lightcoral" alt="Participant Badge"> (2024)
+* **Хакатон AlphaHack от Альфа Банка** – <img src="https://img.shields.io/badge/Participant-lightcoral" alt="Participant Badge"> (2024)
     * 10/40. Трек: Отток клиентов из РКО банка
 
 
