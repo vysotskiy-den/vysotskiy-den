@@ -27,11 +27,21 @@ TBD
 
 ## Образование
 
-TBD
+* <img src="images/hse_icon.png" alt="HSE Icon" width="20" height="20"> **НИУ ВШЭ, ФКН, Москва ** – Магистратура, Финансовые технологии и анализ данных (2025 – 2027)
+
+* <img src="images/hse_icon.png" alt="HSE Icon" width="20" height="20"> **НИУ ВШЭ, ФЭН, Москва ** – Бакалавриат, Экономика и статистика (2021 – 2025)
 
 ## Достижения
 
-TBD
+* **Kaggle-хакатон от МТСxИПИИ** – <img src="https://img.shields.io/badge/Prize%20Winner-gold" alt="Prize Winner Badge"> (2025)
+    * 1/113. Задача: Предсказание оттока клиентов банка
+* **Хакатон S7 AI Wings** – <img src="https://img.shields.io/badge/Participant-lightcoral" alt="Participant Badge"> (2025)
+    * Проект: Разработка онлайн-платформы, прогнозирующей овербукинг на рейсы
+* **Проектная школа от ГК ЭкоНива** – <img src="https://img.shields.io/badge/Finalist-lightcoral" alt="Finalist"> (2025)
+    * Проект: Определение факторов урожайности с/х культур на основе БД компании
+* **Хакатон AlphaHack от Альфа Банка** – <img src="https://img.shields.io/badge/Finalist-lightcoral" alt="Participant Badge"> (2024)
+    * 10/40. Трек: Отток клиентов из РКО банка
+
 
 ## Проекты
 
