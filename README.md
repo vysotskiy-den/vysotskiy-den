@@ -45,4 +45,5 @@ TBD
 
 ## Проекты
 
-TBD
+* **RAG: ИИ-помощник для студентов, изучающих ML** – учебный проект VK (2025)
+    * <a href="https://github.com/vysotskiy-den/vk_autoet_rag"><img alt="GitHub Badge" src="[https://img.shields.io/badge/Github-EBEBD3?style=flat&logo=github&logoColor=white&labelColor=63BA99](https://img.shields.io/badge/Github-EBEBD3?style=flat&logo=github&logoColor=white&labelColor=63BA99)"></a>
