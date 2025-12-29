@@ -10,7 +10,7 @@
 
 * Email: <a href="mailto:dennis.vysotsky@yandex.ru"><img alt="Email Badge" src="https://img.shields.io/badge/dennis.vysotsky%40yandex.ru-083D77?style=flat&logo=maildotru&logoColor=EBEBD3"></a>
 * Telegram: <a href="https://t.me/denis_informal"><img alt="Telegram Badge" src="https://img.shields.io/badge/denis_informal-083D77?style=flat&logo=telegram&logoColor=EBEBD3&color=083D77"></a> 
-
+<!--
 ## Навыки
 
 * **Языки программирования:** <img alt="Python Badge" src="https://img.shields.io/badge/Python-EBEBD3?style=flat&logo=python&logoColor=white&labelColor=EE964B"> <img alt="R Badge" src="https://img.shields.io/badge/R-EBEBD3?style=flat&logo=r&logoColor=white&labelColor=EE964B">
@@ -24,7 +24,7 @@
 ## Опыт
 
 TBD
-
+-->
 ## Образование
 
 * **НИУ ВШЭ, ФКН, Москва** – Магистратура, Финансовые технологии и анализ данных (2025 – 2027)
