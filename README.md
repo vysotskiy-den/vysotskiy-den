@@ -35,7 +35,7 @@ TBD
 
 * **Kaggle-хакатон от МТСxИПИИ** – <img src="https://img.shields.io/badge/Prize%20Winner-gold" alt="Prize Winner Badge"> (2025)
   * **1 / 113** — задача: предсказание оттока клиентов банка  
-  * [Репозиторий](https://github.com/USERNAME/mts-churn-hackathon)
+  * [Репозиторий](https://github.com/vysotskiy-den/mts-hackathon)
 
 * **Хакатон S7 AI Wings** – <img src="https://img.shields.io/badge/Participant-lightcoral" alt="Participant Badge"> (2025)
     * Проект: Разработка онлайн-платформы, прогнозирующей овербукинг на рейсы
