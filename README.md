@@ -34,7 +34,9 @@ TBD
 ## Достижения
 
 * **Kaggle-хакатон от МТСxИПИИ** – <img src="https://img.shields.io/badge/Prize%20Winner-gold" alt="Prize Winner Badge"> (2025)
-    * 1/113. Задача: Предсказание оттока клиентов банка
+  * **1 / 113** — задача: предсказание оттока клиентов банка  
+  * [Репозиторий](https://github.com/USERNAME/mts-churn-hackathon)
+
 * **Хакатон S7 AI Wings** – <img src="https://img.shields.io/badge/Participant-lightcoral" alt="Participant Badge"> (2025)
     * Проект: Разработка онлайн-платформы, прогнозирующей овербукинг на рейсы
 * **Проектная школа от ГК ЭкоНива** – <img src="https://img.shields.io/badge/Finalist-lightcoral" alt="Finalist"> (2025)
